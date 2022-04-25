@@ -1,6 +1,7 @@
    body
    {
        background-color:#E4F9F5;
+       margin-left:50px;
    }
 
    hr
@@ -23,8 +24,5 @@
      color: #D83A56;
    }
 
-   .part1
-   {
-      margin-left:50px;
-   }
+  
    
